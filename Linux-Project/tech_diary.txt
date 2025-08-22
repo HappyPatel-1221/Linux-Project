@@ -1,0 +1,17 @@
+===== Profile =====
+Name : Happy Sherathiya
+Roll No : 240114304020
+===== Favorite Linux Commands =====
+1. ls - list directory contents
+2. pwd - show current directory path
+3. find - search for files in a directory hierarchy
+4. df - display disk space usage
+5. ps - show currently running processes
+===== Command History Log =====
+$ ls
+$ cd linux_project
+$ touch example.txt
+$ echo "This is a sample" > example.txt
+$ cat example.txt
+
+Quote: "Every command you master brings you one step closer to success."

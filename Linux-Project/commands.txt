@@ -1,0 +1,6 @@
+===== Favorite Linux Commands =====
+1. ls - list directory contents
+2. pwd - show current directory path
+3. find - search for files in a directory hierarchy
+4. df - display disk space usage
+5. ps - show currently running processes
